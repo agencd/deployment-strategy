@@ -1,1 +1,1 @@
- # Deployment Stratgy Using Git Tags 
+ # Deployment Stratgy
